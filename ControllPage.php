@@ -9,6 +9,9 @@
 <h1>
 Tere tulemast!
 </h1>
+<div>
+    <img src="hellokitty.jpg" alt="hellokitty">
+</div>
  <div class="Login">
         <a href="login.php">
             <button>Sissepääs</button>
