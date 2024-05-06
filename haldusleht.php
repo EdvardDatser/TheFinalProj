@@ -18,6 +18,7 @@ function isAdmin(){
     <link rel="stylesheet" type="text/css" href="ProjCss.css">
 </head>
 <body>
+<div>
 <h1>Computersets</h1>
 
 <nav>
@@ -65,5 +66,6 @@ if (isset($_REQUEST["SalvestaTellimus"])) {
     </tr>
     </form>
 </table>
+</div>
 </body>
 </html>
