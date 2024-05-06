@@ -9,6 +9,9 @@
 <h1>
 Tere tulemast!
 </h1>
+<div>
+    <img src="forest.jpg" alt="forest">
+</div>
  <div class="Login">
         <a href="login.php">
             <button>Sissepääs</button>

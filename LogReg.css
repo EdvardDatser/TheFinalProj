@@ -6,7 +6,15 @@ body {
     padding: 0;
 }
 .Login, .Reg {
-    margin-top: 20px;
+    position: absolute;
+}
+.Login{
+    top: 200px;
+    left: 900px;
+}
+.Reg{
+    top: 250px;
+    left: 880px;
 }
 
 button, #Tagasi {
