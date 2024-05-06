@@ -116,4 +116,15 @@ Kui kasutaja on teinud kõik, mida ta soovib teha, saab ta klõpsata väljumisnu
 
 [Click!](https://edvarddatser22.thkit.ee/Php/TheFinalProj/ControllPage.php)
 
+##Ülesanded
+
+1. Muutke failis "LogReg.ccs" olevate nuppude värvus mis tahes muu värviga.
+2. Lisage faili "ControlPage.php" pilt.
+3. Lisage <div> element, mis kirjeldab vormi failis "haldusleht.php".
+4. Muutke päise värvi failis "ProjCss.css".
+5. Tõlgi vorm saksa keelde failis "haldusleht.php".
+6. Lisage vormi kirjeldav <div> element failis "AdminLeht.php".
+
+
+
 
