@@ -28,6 +28,7 @@ $arvutid = autoKuvamine();
     <title>Admin</title>
 </head>
 <body>
+<div>
 <h1>Arvutikomplektid</h1>
 <nav>
     <ul>
@@ -71,5 +72,6 @@ $arvutid = autoKuvamine();
         </tr>
     <?php endforeach; ?>
 </table>
+</div>
 </body>
 </html>
