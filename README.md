@@ -8,7 +8,7 @@
      * [Admin Leht](https://github.com/EdvardDatser/TheFinalProj/tree/main#kasutaja-leht)
 5. [Logi välja](https://github.com/EdvardDatser/TheFinalProj/tree/main#kasutaja-välja-logimine)
 6. [Koduleht](https://edvarddatser22.thkit.ee/Php/TheFinalProj/ControllPage.php)
-7. [Ülesanded](https://github.com/EdvardDatser/TheFinalProj/edit/main/README.md#%C3%BClesanded)
+7. [Ülesanded]([https://github.com/EdvardDatser/TheFinalProj/edit/main/README.md#%C3%BClesanded](https://github.com/EdvardDatser/TheFinalProj/edit/main/README.md#%C3%BClesanded))
 
 ## Projekti kohta
 
