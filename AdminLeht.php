@@ -19,7 +19,7 @@ $arvutid = autoKuvamine();
 <!doctype html>
 <html lang="et">
 <head>
-    <link rel="stylesheet" type="text/css" href="ZvezdiCss.css"
+    <link rel="stylesheet" type="text/css" href="ProjCss.css"
 
     <meta charset="UTF-8">
     <meta name="viewport"
