@@ -10,7 +10,7 @@ body {
 }
 
 button, #Tagasi {
-    background-color: #4CAF50;
+    background-color: #49306C;
     color: white;
     padding: 10px 20px;
     font-size: 16px;
@@ -21,7 +21,7 @@ button, #Tagasi {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #6D48A1;
 
 }
 h1{
