@@ -14,20 +14,20 @@ function isAdmin(){
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Kasutaja</title>
+    <title>Benutzer</title>
     <link rel="stylesheet" type="text/css" href="ZvezdiCss.css">
 </head>
 <body>
 <div>
-<h1>Arvutikomplektid</h1>
+<h1>Computersets</h1>
 
 <nav>
     <ul>
-        <li><a href='haldusleht.php'>Kasutaja</a></li>
+        <li><a href='haldusleht.php'>Benutzer</a></li>
         <?php if (isAdmin()) { ?>
-        <li><a href='AdminLeht.php'>Admin</a></li>
+        <li><a href='AdminLeht.php'>Administratorin</a></li>
         <?php } ?>
-        <li id='logout'><a href='logout.php'>Logi välja</a></li>
+        <li id='logout'><a href='logout.php'>Ausloggen</a></li>
     </ul>
 </nav>
 
@@ -44,13 +44,13 @@ if (isset($_REQUEST["SalvestaTellimus"])) {
 
 ?>
 
-<h2>Kasutaja Leht</h2>
+<h2>Benutzerseite</h2>
 <table>
     <tr>
-        <th>Kirjeldus</th>
-        <th>Korpus</th>
-        <th>Kuvar</th>
-        <th>Salvesta tegevus</th>
+        <th>Beschreibung</th>
+        <th>Körper</th>
+        <th>Anzeige</th>
+        <th>Speichern Sie die Aktion</th>
     </tr>
     <?php
     global $yhendus;
