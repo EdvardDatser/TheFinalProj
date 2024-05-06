@@ -1,5 +1,5 @@
 <?php
-require ('conf.php');
+require ('conf2.php');
 require ('funct.php');
 
 if (isset($_REQUEST["Saalvesta"])) {

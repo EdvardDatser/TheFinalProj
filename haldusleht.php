@@ -1,5 +1,5 @@
 <?php
-require('conf.php');
+require('conf2.php');
 
 session_start();
 

@@ -1,5 +1,5 @@
 <?php
-require_once("conf.php");
+require_once("conf2.php");
 global $yhendus;
 if (!empty($_POST['login']) && !empty($_POST['pass'])) {
 
